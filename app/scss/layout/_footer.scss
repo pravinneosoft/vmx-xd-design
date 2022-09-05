@@ -79,6 +79,10 @@ footer {
     display: inline-flex;
     width: 90px;
     justify-content: inherit;
+    a i{
+        color: #bdbfc9;
+    }
+ 
 }
 .footer__product{
     line-height: 200%;
